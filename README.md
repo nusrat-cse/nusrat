@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Nusrat Jannat
-- 👀 I’m interested in Android app developement And Graphic Design
-- 🌱 I’m currently learning Java,PHP,Web Developement And Android app developement.
-- 💞️ I’m looking to collaborate on Android App Developement
+- Hi, I’m Nusrat Jannat
+- I’m interested in Android app developement And Graphic Design
+- I’m currently learning Java,PHP,Web Developement And Android app developement.
+- I’m looking to collaborate on Android App Developement
 - 📫 How to reach me nusratjannat25.1998@gmail.com
 
 <!---
