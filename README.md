@@ -2,8 +2,8 @@
 - 👀 I’m interested in Android app developement And Graphic Design, Video Editing.
 - 🌱 I’m currently learning Java,PHP,Web Developement And Android app developement.
 - 💞️ Looking to collaborate on Android App Developement
-🌟 - Looking for help with Android app development 
-⚡- Fun fact: I sleep anywhere whenever I get time. 😴
+- 🌟Looking for help with Android app development 
+- ⚡ Fun fact: I sleep anywhere whenever I get time. 😴
 -📫: nusratjannat25.1998@gmail.com
 
 <!---
